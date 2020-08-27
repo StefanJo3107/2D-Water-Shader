@@ -79,7 +79,7 @@ Material:
     - _EdgeFoamThreshold: 1.88
     - _FillWithRed: 0
     - _FoamAlpha: 0.093
-    - _FoamThreshold: 0.022
+    - _FoamThreshold: -2.1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1

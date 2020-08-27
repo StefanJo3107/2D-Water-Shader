@@ -15,8 +15,8 @@ Shader "Custom/WaterShader"
 		_MainTex("Texture", 2D) = "white" {}
 		_DisplacementTex("Displacement Texture", 2D) = "white" {}
 		_DisplacementSpeedDivider("Displacement Speed", Float) = 30
-		_DisplacementDetailSpeedDivider("Displacement Detail Speed", Float) = 60
 		_DisplacementDetailTex("Displacement Detail Texture", 2D) = "white" {}
+		_DisplacementDetailSpeedDivider("Displacement Detail Speed", Float) = 60
 		_DisplacementAmountDivider("Displacement Amount Divider", Float) = 40
 		_Tint("Tint", Color) = (1,1,1,1)
 		_FoamThreshold("Foam Threshold", Float) = 0.022
