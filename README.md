@@ -34,4 +34,6 @@ Contact:
 * Unity Asset Store: https://assetstore.unity.com/publishers/32235
 * Itch.io page: https://stefanjo.itch.io/
 
+Background sprites by Craftpix: https://craftpix.net/freebies/free-horizontal-2d-game-backgrounds/
+
 ![Example 01](https://i.imgur.com/trfCSmq.png?1)
