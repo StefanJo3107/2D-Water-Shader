@@ -34,5 +34,4 @@ Contact:
 * Unity Asset Store: https://assetstore.unity.com/publishers/32235
 * Itch.io page: https://stefanjo.itch.io/
 
-![Example 01](https://imgur.com/trfCSmq)
-
+![Example 01](https://i.imgur.com/trfCSmq.png?1)
